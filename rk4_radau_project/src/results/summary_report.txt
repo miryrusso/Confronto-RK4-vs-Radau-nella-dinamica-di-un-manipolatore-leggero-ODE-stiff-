@@ -1,0 +1,16 @@
+REPORT RIASSUNTIVO - CONFRONTO INTEGRATORI NUMERICI
+============================================================
+
+Esperimenti totali: 9
+Esperimenti riusciti: 0
+Tasso di successo: 0.0%
+
+RISULTATI PER k = 10 N·m/rad
+----------------------------------------
+EulerExp  : Nessun successo
+EulerImp  : Nessun successo
+TrapImp   : Nessun successo
+RK4       : Nessun successo
+Radau     : Nessun successo
+
+Fine report

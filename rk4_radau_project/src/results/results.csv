@@ -1,0 +1,10 @@
+method,k,parameter,error,cpu_time,nfev,energy_drift,success,message
+EulerExp,10,0.005,inf,0.001796268996258732,-1,inf,False,nfev infinito
+EulerImp,10,0.005,inf,0.02680083899758756,-1,inf,False,nfev infinito
+TrapImp,10,0.005,inf,0.02819234000344295,-1,inf,False,nfev infinito
+RK4,10,0.005,inf,0.004969654997694306,-1,inf,False,nfev infinito
+EulerExp,10,0.001,inf,0.00731445800192887,-1,inf,False,nfev infinito
+EulerImp,10,0.001,inf,0.09240331600449281,-1,inf,False,nfev infinito
+TrapImp,10,0.001,inf,0.08394535399565939,-1,inf,False,nfev infinito
+RK4,10,0.001,inf,0.02372811899840599,-1,inf,False,nfev infinito
+Radau,10,1e-08,2.050483307992593e-08,0.6052167689995258,10990,426797.9276788994,False,
